@@ -1,5 +1,7 @@
 # Strojno učenje
 
+(c) 2015 Jan Šnajder, UNIZG FER
+
 Bilježnice za predavanja iz predmeta [Strojno učenje](http://www.fer.hr/predmet/su) na [UNIZG FER](http://www.fer.hr).
 
 ### [0. Uvod u SciPy](http://nbviewer.ipython.org/github/jsnajder/StrojnoUcenje/blob/master/notebooks/SU-2015-0-SciPy.ipynb)
@@ -9,10 +11,5 @@ Bilježnice za predavanja iz predmeta [Strojno učenje](http://www.fer.hr/predme
 ### [2. Teorija vjerojatnosti i statistika](http://nbviewer.ipython.org/github/jsnajder/StrojnoUcenje/blob/master/notebooks/SU-2015-2-OsnovniKoncepti.ipynb)
 
 ### [3. Bayesov klasifikator](http://nbviewer.ipython.org/github/jsnajder/StrojnoUcenje/blob/master/notebooks/SU-2015-4-BayesovKlasifikator.ipynb)
-
-
-(c) 2015 Jan Šnajder<br>
-Sveučilište u Zagrebu<br>
-Fakultet elektrotehnike i računarstva
 
 
