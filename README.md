@@ -2,7 +2,7 @@
 
 (c) 2015 Jan Šnajder, UNIZG FER
 
-Bilježnice za predavanja iz predmeta [Strojno učenje](http://www.fer.hr/predmet/su) na [UNIZG FER](http://www.fer.hr).
+Interaktivne bilježnice za predavanja iz predmeta [Strojno učenje](http://www.fer.hr/predmet/su) na [UNIZG FER](http://www.fer.hr).
 
 ### [0. Uvod u SciPy](http://nbviewer.ipython.org/github/jsnajder/StrojnoUcenje/blob/master/notebooks/SU-2015-0-SciPy.ipynb)
 
