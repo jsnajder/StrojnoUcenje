@@ -14,3 +14,5 @@ Interaktivne bilježnice za predavanja iz predmeta [Strojno učenje](http://www.
 
 ### [4. Bayesov klasifikator](http://nbviewer.ipython.org/github/jsnajder/StrojnoUcenje/blob/master/notebooks/SU-2015-4-BayesovKlasifikator.ipynb)
 
+### [5. Regresija](http://nbviewer.ipython.org/github/jsnajder/StrojnoUcenje/blob/master/notebooks/SU-2015-5-Regresija.ipynb)
+
