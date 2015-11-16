@@ -18,5 +18,5 @@ Interaktivne bilježnice za predavanja iz predmeta [Strojno učenje](http://www.
 
 ### [6. Linearni diskriminativni modeli](http://nbviewer.ipython.org/github/jsnajder/StrojnoUcenje/blob/master/notebooks/SU-2015-6-LinearniDiskriminativniModeli.ipynb)
 
-### [7. Logistička regresija](http://nbviewer.ipython.org/github/jsnajder/StrojnoUcenje/blob/master/notebooks/SU-2015-7-LogističkaRegresija.ipynb)
+### [7. Logistička regresija](http://nbviewer.ipython.org/github/jsnajder/StrojnoUcenje/blob/master/notebooks/SU-2015-7-LogistickaRegresija.ipynb)
 
