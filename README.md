@@ -22,3 +22,5 @@ Interaktivne bilježnice za predavanja iz predmeta [Strojno učenje](http://www.
 
 ### [8. Stroj potpornih vektora (SVM)](http://nbviewer.ipython.org/github/jsnajder/StrojnoUcenje/blob/master/notebooks/SU-2015-8-SVM.ipynb)
 
+### [10. Vrednovanje modela](http://nbviewer.ipython.org/github/jsnajder/StrojnoUcenje/blob/master/notebooks/SU-2015-10-VrednovanjeModela.ipynb)
+
